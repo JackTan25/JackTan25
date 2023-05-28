@@ -2,7 +2,7 @@
 
 * 🌱 Databases and Distributed Systems.
 * 💼 Coding in Rust, Go
-* 💻 Previously Intern in [MatrixOrigin](https://github.com/matrixorigin),Now in [DatafuseLabs](https://github.com/datafuselabs)
+* 💻 Previously Intern in [MatrixOrigin](https://github.com/matrixorigin)
 * 🎓 Studying for SE master in ZJU, excepted to graduate in 2025
 
 * 📮 contact me at JackTan25@gmail.com
