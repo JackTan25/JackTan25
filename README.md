@@ -3,7 +3,7 @@
 * 🌱 Databases and Distributed Systems.
 * 💼 Coding in Rust, Go
 * 💻 Previously Intern in [MatrixOrigin](https://github.com/matrixorigin), Now Working In [Databend](https://github.com/datafuselabs/databend)
-* 🎓 Studying for SE master in ZJU, excepted to graduate in 2025
+* 🎓 Studying for SE master in ZJU, expected to graduate in 2025
 
 * 📮 contact me at JackTan25@gmail.com
 ...
